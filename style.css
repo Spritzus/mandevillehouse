@@ -1,19 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Bevan&family=Playwrite+IE:wght@100..400&family=Space+Grotesk:wght@300..700&display=swap');
 body{
-  background-color: #522E2E;
-  color: #FFFCE6;
-}
-accent{
-  color:#FFE81A;
-}
-.highbg{
-  background-color: #934738;
-}
-h1,h2,titly{
-  color:#FFE81A;
-  font-family: "Bevan", system-ui;
-  font-weight: 400;
-  font-style: normal;
+  background: #000;
+  font-family: arial;
+  color: #fff !important;
 }
 h1{
   font-size: 3rem;
@@ -21,3 +10,13 @@ h1{
 titly{
   font-size: 4rem;
 }
+decdiv{
+   background: linear-gradient(0deg,#2e2f3b 0%,#525465 95%,#b1b4d0 96%);
+  border-radius: 5px;
+  border: 02px solid #000000;
+  border-width: 02px 02px 02px 02px;
+  padding: 5px 20px 5px 20px;
+    color: #ffffff;rgba(0,0,0,0.3);
+    color: #fff;
+}
+
