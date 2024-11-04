@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bevan&family=Playwrite+IE:wght@100..400&family=Space+Grotesk:wght@300..700&display=swap');
+h1,h2,titly{
+  font-family: "Bevan", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+h1{
+  font-size: 3rem;
+}
+titly{
+  font-size: 4rem;
+}
