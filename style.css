@@ -28,4 +28,6 @@ card{
   padding: 5px 20px 5px 20px;
   color: #fff;
 }
-
+header{
+  background-image: url(/manda-banner.png);height:500px;max-width:100%
+}
