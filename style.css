@@ -20,12 +20,10 @@ decdiv{
   color: #827F9F;
   max-height:20px;
 }
-card{
+.card{
   background:#3E404D;
-  border-radius: 5px;
-  border: 02px solid #000000;
-  border-width: 02px 02px 02px 02px;
-  padding: 5px 20px 5px 20px;
+  border-radius: 0px;
+  border: 1px solid #000000;
   color: #fff;
 }
 header{
