@@ -16,9 +16,8 @@ decdiv{
   border-radius: 5px;
   border: 02px solid #000000;
   border-width: 02px 02px 02px 02px;
-  padding: 5px 5px 10px 5px;
   color: #827F9F;
-  max-height:20px;
+  height:20px;
 }
 .card{
   background:#3E404D;
